@@ -2,6 +2,15 @@
 
 url launcher in flutter app
 
+Package :
+url_launcher: ^6.0.15
+
+Import
+import 'package:url_launcher/url_launcher.dart';
+
+dependancy
+https://pub.dev/packages/url_launcher
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
