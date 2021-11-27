@@ -17,10 +17,10 @@ https://pub.dev/packages/url_launcher
 ![CHEESE!](screenshot/browser1.jpg)
 
 
-![CHEESE!](screenshot/phone.jpg)
+![CHEESE!](screenshot/phone1.jpg)
 
 
-![CHEESE!](screenshot/insideapp.jpg)
+![CHEESE!](screenshot/insideapp1.jpg)
 
 ## Getting Started
 
