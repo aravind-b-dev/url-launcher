@@ -14,13 +14,14 @@ dependancy
 https://pub.dev/packages/url_launcher
 
 
+https://user-images.githubusercontent.com/73890321/143763066-a7607d13-3898-476a-a710-179fbab8a53f.mp4
+
+
+
 ![CHEESE!](screenshot/browser1.jpg)
 
 
-![CHEESE!](screenshot/phone1.jpg)
-
-
-![CHEESE!](screenshot/insideapp1.jpg)
+![CHEESE!](screenshot/phone1.jpg)  ![CHEESE!](screenshot/insideapp1.jpg)
 
 ## Getting Started
 
