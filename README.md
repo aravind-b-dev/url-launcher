@@ -6,7 +6,8 @@ url launcher in flutter app
 
 Package :
 
-url_launcher: ^6.0.15
+- url_launcher: ^6.0.15
+- 
 import 'package:url_launcher/url_launcher.dart';
 
 
