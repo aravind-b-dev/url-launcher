@@ -3,7 +3,6 @@
 url launcher in flutter app
 
 
-
 Package :
 
 - url_launcher: ^6.0.15
